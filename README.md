@@ -1,5 +1,5 @@
 ## Personal Porfolio Site
-https://michaeltolchinsky.github.io/portfolio/
+
 
 ## Built with
 
@@ -11,4 +11,3 @@ https://michaeltolchinsky.github.io/portfolio/
 
 * [WOW.js](https://mynameismatthieu.com/WOW/) - Scrolling animation
 * [Font Awesome](https://fontawesome.com/?from=io/) - Icons used
-# michaeltol.github.io
